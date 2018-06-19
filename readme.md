@@ -1,4 +1,5 @@
 # wfh
+![wfh in action](https://media.giphy.com/media/xT1XGEVSIzSoraiPTO/giphy.gif)
 
 `wfh` makes email checking great. All I need to know is if I'm going into the office. Tell me, is anyone working from home today? And who? This guides my decision on if I'm working from home. It's not quite _while the cat's away_, it's more like _while the cat is breaking its own rule of always be at the office, so too may the mice break it_.
 
