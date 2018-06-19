@@ -1,5 +1,5 @@
 {
-  "name": "wfh",
+  "name": "@dillonchr/wfh",
   "version": "1.0.0",
   "description": "checks your email for a WFH subject-lined result",
   "main": "wfh.js",
@@ -10,5 +10,14 @@
   "license": "GPL-2.0",
   "dependencies": {
     "inbox": "^1.1.59"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonchr/wfh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dillonchr/wfh/issues"
+  },
+  "homepage": "https://github.com/dillonchr/wfh#readme"
 }
