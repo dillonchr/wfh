@@ -1,0 +1,14 @@
+{
+  "name": "wfh",
+  "version": "1.0.0",
+  "description": "checks your email for a WFH subject-lined result",
+  "main": "wfh.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "author": "@dillonchr",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "inbox": "^1.1.59"
+  }
+}
