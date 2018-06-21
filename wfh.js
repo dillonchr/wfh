@@ -21,7 +21,7 @@ module.exports = (URL, PORT, USERNAME, PASSWORD, callback) => {
     };
 
     const itsANoGuys = () => {
-        respondToCall(buildResultWithWhosOut([]));
+        respondToCall(null, buildResultWithWhosOut([]));
     };
 
     const loadMessages = n => client.listMessages(n, (err, messages) => {
