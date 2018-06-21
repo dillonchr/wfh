@@ -1,6 +1,6 @@
 {
   "name": "@dillonchr/wfh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checks your email for a WFH subject-lined result",
   "main": "wfh.js",
   "scripts": {
